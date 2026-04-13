@@ -22,3 +22,13 @@
 .mid-right  { grid-area: mid-R; }
 
 .bottom-image { grid-area: bot-img; }
+
+.item {
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
+}
